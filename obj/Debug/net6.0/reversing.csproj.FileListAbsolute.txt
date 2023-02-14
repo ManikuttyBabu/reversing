@@ -1,0 +1,15 @@
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\bin\Debug\net6.0\reversing.exe
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\bin\Debug\net6.0\reversing.deps.json
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\bin\Debug\net6.0\reversing.runtimeconfig.json
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\bin\Debug\net6.0\reversing.dll
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\bin\Debug\net6.0\reversing.pdb
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\reversing.csproj.AssemblyReference.cache
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\reversing.AssemblyInfoInputs.cache
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\reversing.AssemblyInfo.cs
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\reversing.csproj.CoreCompileInputs.cache
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\reversing.dll
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\refint\reversing.dll
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\reversing.pdb
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\reversing.genruntimeconfig.cache
+C:\Users\manikuutty.babu\source\repos\reversing\reversing\obj\Debug\net6.0\ref\reversing.dll
