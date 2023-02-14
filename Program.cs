@@ -16,7 +16,7 @@
                 len--;
             }
             Console.WriteLine("Reversed String is {0}", rev);
-            Console.ReadLine();//comment
+            //Console.ReadLine();//comment
         }
     }
 }
