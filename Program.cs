@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             string myStr, rev;
-            myStr = "Manikutty";
+            myStr = "Manikuy";
             rev = "";
             Console.WriteLine("String is {0}", myStr);
             int len;
@@ -16,7 +16,7 @@
                 len--;
             }
             Console.WriteLine("Reversed String is {0}", rev);
-            Console.ReadLine();
+            Console.ReadLine();//comment
         }
     }
 }
